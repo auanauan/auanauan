@@ -22,7 +22,7 @@
 
 ### 🖥 Frontend
 ![HTML5](https://img.shields.io/badge/Frontend-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=#E34F26)
-![CSS3](https://img.shields.io/badge/Frontend-CSS3-%231572B6?style=for-the-badge&logo=css&logoColor=#663399)
+![CSS3](https://img.shields.io/badge/Frontend-CSS3-%231572B6?style=for-the-badge&logo=css&logoColor=blue)
 ![Sass](https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=#F7DF1E)
 ![TypeScript](https://img.shields.io/badge/Language-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=#3178C6)
@@ -30,18 +30,20 @@
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚡ Backend
-![Node.js](https://img.shields.io/badge/Runtime-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Backend-Supabase-%2300B67A?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/ORM-Prisma-%2300B4D8?style=for-the-badge&logo=prisma&logoColor=white)
+![Node.js](https://img.shields.io/badge/Runtime-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=#5FA04E)
+![Supabase](https://img.shields.io/badge/Backend-Supabase-%2300B67A?style=for-the-badge&logo=supabase&logoColor=#3FCF8E)
+![Prisma](https://img.shields.io/badge/ORM-Prisma-%2300B4D8?style=for-the-badge&logo=prisma&logoColor=#2D3748)
 
 ### 🗄 Database
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=#4169E1)
+
+### ⚙️ DevOps / Tools
+![Docker](https://img.shields.io/badge/Container-Docker-%230249ED?style=for-the-badge&logo=docker&logoColor=#2496ED)
 
 ### 🎨 Design & Tools
-![Figma](https://img.shields.io/badge/Design-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-
-
+![Figma](https://img.shields.io/badge/Design-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=#F24E1E)
+![npm](https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=%23CB3837&label=Package-Manager&labelColor=grey)
+![pnpm](https://img.shields.io/badge/pnpm-%23F69220?style=for-the-badge&logo=pnpm&logoColor=%23F69220&label=Package-Manager&labelColor=grey)
 
 
 </div>
