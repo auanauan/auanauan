@@ -26,6 +26,8 @@
 ![Sass](https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=#F7DF1E)
 ![TypeScript](https://img.shields.io/badge/Language-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=#3178C6)
+![React](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&label=Library&labelColor=grey)
+![Vue](https://img.shields.io/badge/vue-%234FC08D?style=for-the-badge&logo=vuedotjs&label=framework&labelColor=grey)
 ![Nuxt.js](https://img.shields.io/badge/Framework-Nuxt.js-%2300C58E?style=for-the-badge&logo=nuxt&logoColor=#00DC82)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
