@@ -72,15 +72,3 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/auanauan/auanauan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/auanauan/auanauan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/auanauan/auanauan/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-[![CL - Let It](https://lh3.googleusercontent.com/e1Qrh6A0IUCFf3r-5rE2Oivk5cnu94yNzQUyGz_bAgN8jkk9HG4rewwQepFzkRV-Zk95IxeRTxDONfg=w544-h544-l90-rj)](https://music.youtube.com/watch?v=dp_5u1GNXOE)
-
-###
