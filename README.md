@@ -40,6 +40,11 @@
 ### ⚙️ DevOps / Tools
 ![Docker](https://img.shields.io/badge/Container-Docker-%230249ED?style=for-the-badge&logo=docker&logoColor=#2496ED)
 
+### 🛡 Cybersecurity / SIEM & Monitoring
+![Splunk](https://img.shields.io/badge/Splunk-%23000000?style=for-the-badge&logo=splunk&logoColor=#90E59A)
+![McAfee](https://img.shields.io/badge/McAfee-%23DF1B28?style=for-the-badge&logo=mcafee&logoColor=#C01818)
+![Sumo Logic](https://img.shields.io/badge/Sumo_Logic-%23007D6C?style=for-the-badge&logo=sumologic&logoColor=#000099)
+
 ### 🎨 Design & Tools
 ![Figma](https://img.shields.io/badge/Design-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=#F24E1E)
 ![npm](https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=%23CB3837&label=Package-Manager&labelColor=grey)
