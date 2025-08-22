@@ -1,66 +1,87 @@
 <div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDQxY3cxbXQ4cms5YXVqeGtvdnN3dmc1dzJ0N29tNXdqaDkyejZxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
-</div>
 
-###
+<!-- Header with animated GIF -->
+<img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDQxY3cxbXQ4cms5YXVqeGtvdnN3dmc1dzJ0N29tNXdqaDkyejZxdyZlcP12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" />
 
-<h1 align="center">Hey 👋 What's up?</h1>
+<!-- Greeting with gradient styling -->
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&width=435&lines=Hey+%F0%9F%91%8B+What's+up%3F;Full+Stack+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
+</h1>
 
-###
+<!-- Portfolio Link Button -->
+<a href="https://auanauan-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-4CAF50?style=for-the-badge&logoColor=white" alt="Portfolio" />
+</a>
 
-<!-- Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=auanauan&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=auanauan&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auanauan&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
-</div>
+<br/><br/>
 
-<!-- Tech Stack -->
+<!-- Enhanced Stats Section -->
+<details>
+<summary>📊 GitHub Analytics</summary>
+
+<br/>
+
 <div align="center">
   
-## 💻 Tech Stack ⚡
+<!-- Comprehensive GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=auanauan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&custom_title=GitHub%20Overview" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=auanauan&theme=tokyonight&hide_border=true" width="49%" />
 
-### 🖥 Frontend
-![HTML5](https://img.shields.io/badge/Frontend-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=#E34F26)
-![CSS3](https://img.shields.io/badge/Frontend-CSS3-%231572B6?style=for-the-badge&logo=css&logoColor=blue)
-![Sass](https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=#F7DF1E)
-![TypeScript](https://img.shields.io/badge/Language-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=#3178C6)
-![React](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&label=Library&labelColor=grey)
-![Vue](https://img.shields.io/badge/vue-%234FC08D?style=for-the-badge&logo=vuedotjs&label=framework&labelColor=grey)
-![Nuxt.js](https://img.shields.io/badge/Framework-Nuxt.js-%2300C58E?style=for-the-badge&logo=nuxt&logoColor=#00DC82)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<!-- Language Stats with Donut Chart -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auanauan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut&langs_count=8" width="40%" />
 
-### ⚡ Backend
-![Node.js](https://img.shields.io/badge/Runtime-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=#5FA04E)
-![Supabase](https://img.shields.io/badge/Backend-Supabase-%2300B67A?style=for-the-badge&logo=supabase&logoColor=#3FCF8E)
-![Prisma](https://img.shields.io/badge/ORM-Prisma-%2300B4D8?style=for-the-badge&logo=prisma&logoColor=#2D3748)
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=auanauan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" width="55%" />
 
-### 🗄 Database
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=#4169E1)
+<!-- Contribution Snake (3D) -->
+<img src="https://github.com/auanauan/auanauan/blob/output/github-snake-dark.svg" width="90%" />
 
-### ⚙️ DevOps / Tools
-![Docker](https://img.shields.io/badge/Container-Docker-%230249ED?style=for-the-badge&logo=docker&logoColor=#2496ED)
-
-### 🛡 Cybersecurity / SIEM & Monitoring
-![Splunk](https://img.shields.io/badge/Splunk-%23000000?style=for-the-badge&logo=splunk&logoColor=#90E59A)
-![McAfee](https://img.shields.io/badge/McAfee-%23DF1B28?style=for-the-badge&logo=mcafee&logoColor=#C01818)
-![Sumo Logic](https://img.shields.io/badge/Sumo_Logic-%23007D6C?style=for-the-badge&logo=sumologic&logoColor=#000099)
-
-### 🎨 Design & Tools
-![Figma](https://img.shields.io/badge/Design-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=#F24E1E)
-![npm](https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=%23CB3837&label=Package-Manager&labelColor=grey)
-![pnpm](https://img.shields.io/badge/pnpm-%23F69220?style=for-the-badge&logo=pnpm&logoColor=%23F69220&label=Package-Manager&labelColor=grey)
-
+<!-- Detailed Metrics -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=auanauan&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=auanauan&repo=auanauan&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
-###
+</details>
+
+<!-- Quick Stats Bar -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auanauan&theme=tokyonight" width="100%" />
+
+<!-- Coding Activity -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=auanauan&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity&area=true&point=false" width="100%" />
+
+<br/><br/>
+
+## 💻 Tech Stack
+
+<!-- Frontend Section with consistent sized icons -->
+### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vue,nuxt,tailwind,figma&theme=dark" height="50" />
+
+### ⚡ Backend Development  
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,prisma,postgres,docker&theme=dark" height="50" />
+
+### 🛡️ Cybersecurity & Monitoring
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=90E59A&logoWidth=20" height="35" />
+<img src="https://img.shields.io/badge/McAfee-DF1B28?style=for-the-badge&logo=mcafee&logoColor=white&logoWidth=20" height="35" />
+<img src="https://img.shields.io/badge/Sumo_Logic-007D6C?style=for-the-badge&logo=sumologic&logoColor=white&logoWidth=20" height="35" />
+
+### 🛠️ Tools & Package Managers
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&logoWidth=20" height="35" />
+<img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white&logoWidth=20" height="35" />
+
+<br/><br/>
+
+<!-- GitHub Activity Graph -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=auanauan&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Snake Animation -->
-<div align="center">
-    
-  ![snake gif](https://github.com/auanauan/auanauan/blob/output/github-snake-dark.svg)
-</div>
+![Snake Animation](https://github.com/auanauan/auanauan/blob/output/github-snake-dark.svg)
 
-###
+---
+
+<img src="https://komarev.com/ghpvc/?username=auanauan&style=for-the-badge&color=58A6FF" alt="Profile Views" />
+
+*"Code is like humor. When you have to explain it, it's bad." - Cory House*
+
+</div>
