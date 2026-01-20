@@ -37,7 +37,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vue,nuxt,tailwind,figma&theme=dark" height="50" alt="Frontend Technologies" />
 
 ### ⚡ Backend Development  
-<img src="https://skillicons.dev/icons?i=nodejs,supabase,prisma,postgres,docker&theme=dark" height="50" alt="Backend Technologies" />
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,php,prisma,postgres,docker&theme=dark" height="50" alt="Backend Technologies" />
 
 ### 🛡️ Cybersecurity & Monitoring
 <p>
